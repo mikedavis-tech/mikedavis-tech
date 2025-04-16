@@ -24,7 +24,7 @@ I’ve worked with amazing teams at **Banzai**, **Demio**, **Colorlib**, **WPMU 
 Here are a few repos I'm building and maintaining:
 
 - [`api-integration-demo`](https://github.com/mikedavis-tech/api-integration-demo) – Connects to a public API using Python to fetch live data 🌦️
-- [`wordpress-troubleshooting`](https://github.com/mikedavis-tech/wordpress-troubleshooting) – Real-world examples of fixing WordPress site issues 🧰
+- [`wordpress-support-contributions`](https://github.com/mikedavis-tech/wordpress-support-contributions) – Real-world examples of fixing WordPress site issues 🧰
 - [`sql-query-samples`](https://github.com/mikedavis-tech/sql-query-samples) – Practical SQL queries for reporting and diagnostics 📈
 
 ---
